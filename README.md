@@ -6,9 +6,11 @@ Operating & Service Manuals.<br>
 
 ## [Image Samples](/Image_Samples)
 Original files from the FD95: JPEG still photos and MPEG-1 videos.<br>
+Image colours: True Color (RGB, 24 Bit, 8 Bit Padding, 16.7 Million Colors)<br>
+Resolution: 72ppi
 
 Possible resolutions for JPEG photos are:
-- 1600x1200
+- 1600x1200 (3:4)
 - 1600x1200 (3:2) for 4x6" photo printing
 - 1600x1200 Enhanced Compression Mode (ECM) which uses increased JPEG compression to squeeze more images on the disk (to be tested)
 - 1024x768
@@ -27,6 +29,15 @@ There are some additional recording modes:
 - E-MAIL: captures the NORMAL JPEG plus a 320x240 JPEG
 
 There is also a sample MAVICA.HTM file that the camera generates on the disk that simply provides a hyperlink to open each file.<br>
+
+### Full quality vs. ECM
+Here is a comparison of a [full quality](/Image_Samples/MVC-008F.JPG) 1600x1200 and an [ECM](/Image_Samples/MVC-007F.JPG) version:
+
+|Info|Full|ECM|
+|----|----|---|
+|File Size|348KB|168KB|
+|Compression|1:22|1:46|
+|JPEQ Q|87%|62%|
 
 ## [PlayMemories Home](https://support.d-imaging.sony.co.jp/www/disoft/int/playmemories-home/en/)
 This is Sony's software for managing photos and videos - downloads (as of Jan 2026) are still available for 32bit Windows and Mac (10.14 or lower) with the 64bit Windows version still kind-of maintained it seems:<br>
