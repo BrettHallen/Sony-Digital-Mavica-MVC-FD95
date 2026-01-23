@@ -12,6 +12,8 @@ These are the original, unmanipulated files from the camera.  When formatted (FA
 - MVC-004F.JPG: 1600x1200 best quality JPEG image taken at same time as VOICE 320x240 MPEG-1 (MVC-004A.MPG)
 - MVC-005F.JPG: 1600x1200 best quality JPEG image taken at same time as E-MAIL 320x240 JPEG (MVC-005E.JPG)
 - MVC-006F.JPG: 1600x1200 (3:2) JPEG image
+- MVC-007F.JPG: 1600x1200 (ECM) JPEG image
+- MVC-008F.JPG: 1600x1200 best quality JPEG image of MVC-007F
 - E-MAIL:       subfolder storing the E-MAIL JPEG images
 - VOICE:        subfolder storing the 320x240 MPEG-1 videos 
 ```
