@@ -7,6 +7,25 @@ Operating & Service Manuals.<br>
 ## [Image Samples](/Image_Samples)
 Original files from the FD95: JPEG still photos and MPEG-1 videos.<br>
 
+Possible resolutions for JPEG photos are:
+- 1600x1200
+- 1600x1200 (3:2) for 4x6" photo printing
+- 1600x1200 Enhanced Compression Mode (ECM) which uses increased JPEG compression to squeeze more images on the disk (to be tested)
+- 1024x768
+- 640x480
+
+And for MPEG-1 video with mono audio:
+- 320x240
+- 160x112
+
+Video can be recorded for 5s, 10s or max. 15s.<br>
+
+There are some additional recording modes:
+- NORMAL: captures JPEG at the specified resolution
+- TEXT: B&W GIF at the specified resolution
+- VOICE: captures the NORMAL JPEG plus an audio file with still image (320x240)
+- E-MAIL: captures the NORMAL JPEG plus a 320x240 JPEG
+
 There is also a sample MAVICA.HTM file that the camera generates on the disk that simply provides a hyperlink to open each file.<br>
 
 ## [PlayMemories Home](https://support.d-imaging.sony.co.jp/www/disoft/int/playmemories-home/en/)
